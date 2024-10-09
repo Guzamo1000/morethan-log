@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "nguyenconghau aka ocydunes",
-    image: "/public/pngtree-smile-vector-template-design-illustration-png-image_555090.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://avatars.githubusercontent.com/u/82644341?s=96&v=4", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Devsecops",
     bio: "The code is not buggy, the bug is yours.",
     email: "guzamo59@gmail.com",
