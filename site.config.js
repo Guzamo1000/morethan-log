@@ -31,7 +31,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: Docker-v-k-nguy-n-container-111ad3f98bf7800e8ecff1ad6a2cfe52,
+    pageId: 111ad3f98bf7800e8ecff1ad6a2cfe52,
   },
 
   // plugin configuration (optional)
